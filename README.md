@@ -9,8 +9,6 @@
 ╲┣━━━━━━┫﻿
 ```
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Damian-Mostert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Damian-Mostert&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
