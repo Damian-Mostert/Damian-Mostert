@@ -5,7 +5,7 @@
 ## Websites
 
 #### Next dashboard (mongoDB powered dashboard for next.js)
-<a href="https://next-dashboard-phi-liart.vercel.app/auth/login">https://next-dashboard-phi-liart.vercel.app/</a>
+<a href="https://next-dashboard-phi-liart.vercel.app/auth/login">https://next-dashboard-phi-liart.vercel.app/auth/login</a>
 <br/>
 email: root@admin.com
 <br/>
