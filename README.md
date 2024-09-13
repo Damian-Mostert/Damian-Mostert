@@ -2,6 +2,17 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
+## Websites
+
+#### Next dashboard (mongoDB powered dashboard for next.js)
+<a href="https://next-dashboard-phi-liart.vercel.app/auth/login">https://next-dashboard-phi-liart.vercel.app/</a>
+<br/>
+email: root@admin.com
+<br/>
+password: 12345678
+#### React game (a 2d game engine written for react)
+<a href="https://react-game-engine.vercel.app/">https://react-game-engine.vercel.app/</a>
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
