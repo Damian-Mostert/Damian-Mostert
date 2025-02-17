@@ -12,6 +12,8 @@ email: root@admin.com
 password: 12345678
 #### React game (a 2d game engine written for react)
 <a href="https://react-game-engine.vercel.app/">https://react-game-engine.vercel.app/</a>
+#### Web 3 slots (unstable but cool)
+<a href="https://web3-slots.vercel.app/">https://web3-slots.vercel.app/</a>
  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
