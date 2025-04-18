@@ -123,6 +123,8 @@ Conected to the sepoliaEth network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://banner2.cleanpng.com/20180614/btu/aa7ugih3z.webp" height="40" alt="firebase logo"  />
 </div>
 
 ### other
