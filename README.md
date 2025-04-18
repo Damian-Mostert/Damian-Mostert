@@ -1,6 +1,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damian-mostert&label=Profile%20views&color=0e75b6&style=flat" alt="damian-mostert" /> </p>
+
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
+
+---
+
+🚀 **About this repo**  
+This is where I store my side quests — creative builds, experimental projects, and random ideas I’m hacking on outside of work.
+
+💡 I love solving logic problems, building games, crafting clean UIs, and occasionally diving into the Web3 rabbit hole.  
+🛠️ From frontend magic to backend wizardry, I'm always exploring and learning something new.
+
+---
+
+### 🧰 Tech Stack I Like to Play With
+
+- **Frontend:** React, Next.js, Vue, Tailwind, TypeScript, Redux  
+- **Backend:** Node.js, Express, Laravel, PHP, MySQL, MongoDB  
+- **Web3:** Solidity, Truffle, Ganache, Ethers.js  
+- **Other:** Python, Canvas, Game Loops, Physics Simulations  
 
 ## Websites
 
