@@ -22,6 +22,7 @@ Conected to the sepoliaEth network
 
 ## Stack
 
+### node
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1598px-NestJS-logo-wordmark.svg.png?20241119221214" height="40" alt="nestjs logo" />
   <img width="12" />
@@ -34,9 +35,11 @@ Conected to the sepoliaEth network
   <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  
-  
-  
+  </div>
+
+  ### php
+
+  <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -44,9 +47,10 @@ Conected to the sepoliaEth network
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYwyxGiDq79o7xET2ObK8fV0KCt6XTTJKXw&s" height="40" alt="laravel nova logo" />    <img width="12" />
   <img src="https://github.com/laravel/telescope/blob/5.x/art/logo.svg" height="40" alt="laravel teliscope logo" /> 
   <img width="12" />
+</div>
 
-
-
+### react
+ <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -70,7 +74,11 @@ Conected to the sepoliaEth network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
+### other
+
+ <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
