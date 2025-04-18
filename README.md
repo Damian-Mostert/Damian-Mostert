@@ -86,7 +86,7 @@ Conected to the sepoliaEth network
 
  <div align="center">
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/42/1/ganache-logo-png_seeklogo-426724.png" height="40" alt="ganache logo"  />
+  <img src="https://archive.trufflesuite.com/img/ganache-logo-dark.svg" height="40" alt="ganache logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
