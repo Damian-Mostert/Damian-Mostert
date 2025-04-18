@@ -77,7 +77,6 @@ Conected to the sepoliaEth network
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" height="40" alt="laravel logo" />    <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYwyxGiDq79o7xET2ObK8fV0KCt6XTTJKXw&s" height="40" alt="laravel nova logo" />    <img width="12" />
   <img src="https://github.com/laravel/telescope/blob/5.x/art/logo.svg" height="40" alt="laravel teliscope logo" /> 
-  <img width="12" />
 </div>
 
 ### react
@@ -114,6 +113,9 @@ Conected to the sepoliaEth network
   <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" height="40" alt="solidity"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.svg.png" height="40" alt="Metamask"  />
+    <img width="12" />
+  <img src="https://walletconnect.network/icon.png" height="40" alt="laravel teliscope logo" /> 
+
 </div>
 
 ### Program execution
