@@ -22,17 +22,21 @@ Conected to the sepoliaEth network
 
 ## Stack
 
-<div align="left">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1598px-NestJS-logo-wordmark.svg.png?20241119221214" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ejs.svg" height="40" alt="ejs logo" style="filter: invert(1);" />
+  <img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" height="40" alt="ejs logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pug.svg" height="40" alt="pug logo" style="filter: invert(1);" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*6mf8tptIWbepPFZT07EDvQ.jpeg" height="40" alt="pug logo"  />
+
+   <img width="12" />
+  <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" height="40" alt="alpinejs logo" />    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -68,10 +72,9 @@ Conected to the sepoliaEth network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
+</div>
 
 ## Overview
-
-</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damian-mostert" alt="damian-mostert" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact" alt="damian-mostert" /></p>
 
