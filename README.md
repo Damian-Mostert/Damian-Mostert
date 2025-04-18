@@ -25,9 +25,9 @@ Conected to the sepoliaEth network
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1598px-NestJS-logo-wordmark.svg.png?20241119221214" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" height="40" alt="express logo" />
+  <img src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" height="40" alt="ejs logo"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-ejs-icon-2048x1151-hdkbavbz.png" height="40" alt="ejs logo"/>
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*6mf8tptIWbepPFZT07EDvQ.jpeg" height="40" alt="pug logo"  />
 
