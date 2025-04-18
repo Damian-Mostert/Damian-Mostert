@@ -43,6 +43,7 @@ Conected to the sepoliaEth network
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" height="40" alt="laravel logo" />    <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYwyxGiDq79o7xET2ObK8fV0KCt6XTTJKXw&s" height="40" alt="laravel nova logo" />    <img width="12" />
   <img src="https://github.com/laravel/telescope/blob/5.x/art/logo.svg" height="40" alt="laravel teliscope logo" /> 
+  <img width="12" />
 
 
 
