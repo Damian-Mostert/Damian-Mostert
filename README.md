@@ -30,13 +30,15 @@ Conected to the sepoliaEth network
   <img src="https://static-00.iconduck.com/assets.00/file-type-ejs-icon-2048x1151-hdkbavbz.png" height="40" alt="ejs logo"/>
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*6mf8tptIWbepPFZT07EDvQ.jpeg" height="40" alt="pug logo"  />
-
    <img width="12" />
   <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" height="40" alt="alpinejs logo" />    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" height="40" alt="laravel logo" />    <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYwyxGiDq79o7xET2ObK8fV0KCt6XTTJKXw&s" height="40" alt="laravel nova logo" />    <img width="12" />
+  <img src="  https://img.stackshare.io/service/9766/telescope.png" height="40" alt="laravel teliscope logo" /> 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
