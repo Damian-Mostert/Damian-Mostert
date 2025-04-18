@@ -50,8 +50,9 @@ Conected to the sepoliaEth network
 
 
   ### php
-
 <div align="center">
+  <img width="12" />
+  <img src="https://getcomposer.org/img/logo-composer-transparent.png" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -93,6 +94,9 @@ Conected to the sepoliaEth network
   <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.svg.png" height="40" alt="blender logo"  />
+
 </div>
 
 ### Database
