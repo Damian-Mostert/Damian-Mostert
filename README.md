@@ -159,10 +159,7 @@ Conected to the sepoliaEth network
 
 ### 
 <a style="width:100%"  href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:100%"  src="https://github-profile-trophy.vercel.app/?username=damian-mostert&theme=onedark&rank=-C,-B,UNKNOWN&title=-Reviews" alt="damian-mostert" /></a>
-
-### 
-<img style="width:100%;padding-bottom:1rem" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact&theme=onedark" alt="damian-mostert" />
-
-### 
-<img style="width:100%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damian-mostert&theme=onedark" alt="damian-mostert" />
+<div style="height:1rem"></div>
+<img style="width:100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact&theme=onedark" alt="damian-mostert" />
+<img style="width:100%;padding-top:2rem"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damian-mostert&theme=onedark" alt="damian-mostert" />
 
