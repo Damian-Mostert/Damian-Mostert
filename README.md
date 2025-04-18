@@ -149,13 +149,15 @@ Conected to the sepoliaEth network
 </div>
 
 ## Overview
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damian-mostert" alt="damian-mostert" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact" alt="damian-mostert" /></p>
 
+### 
+<a style="width:100%"  href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:100%"  src="https://github-profile-trophy.vercel.app/?username=damian-mostert&theme=onedark&rank=-C,-B" alt="damian-mostert" /></a>
+### 
+<img style="width:100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact&theme=onedark" alt="damian-mostert" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damian-mostert&show_icons=true&locale=en" alt="damian-mostert" /></p>
+### 
+<img style="width:100%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damian-mostert&theme=onedark" alt="damian-mostert" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damian-mostert&" alt="damian-mostert" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
