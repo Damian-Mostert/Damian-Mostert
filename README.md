@@ -111,10 +111,20 @@ Conected to the sepoliaEth network
   <img width="12" />
   <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" height="40" alt="blender logo"  />
+  <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" height="40" alt="solidity"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.svg.png" height="40" alt="blender logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1024px-MetaMask_Fox.svg.png" height="40" alt="Metamask"  />
+</div>
 
+### Program execution
+
+ <div align="center">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++ logo"  />
 </div>
 
 ### Database
@@ -130,8 +140,6 @@ Conected to the sepoliaEth network
 ### other
 
  <div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
