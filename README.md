@@ -48,6 +48,8 @@ Conected to the sepoliaEth network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+   <img width="12" />
+  <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
 </div>
 
 ### node
@@ -62,8 +64,6 @@ Conected to the sepoliaEth network
   <img src="https://static-00.iconduck.com/assets.00/file-type-ejs-icon-2048x1151-hdkbavbz.png" height="40" alt="ejs logo"/>
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*6mf8tptIWbepPFZT07EDvQ.jpeg" height="40" alt="pug logo"  />
-   <img width="12" />
-  <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
 </div>
 
 
