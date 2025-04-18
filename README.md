@@ -38,6 +38,13 @@ Conected to the sepoliaEth network
 
 <a href="https://web3-slots.vercel.app/">https://web3-slots.vercel.app/</a>
 
+
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/damian-mostert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian-mostert" height="30" width="40" /></a>
+</p>
+
+
 ## Tech Stack
 
 ### html
@@ -151,15 +158,11 @@ Conected to the sepoliaEth network
 ## Overview
 
 ### 
-<a style="width:100%"  href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:100%"  src="https://github-profile-trophy.vercel.app/?username=damian-mostert&theme=onedark&rank=-C,-B" alt="damian-mostert" /></a>
+<a style="width:100%"  href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:100%"  src="https://github-profile-trophy.vercel.app/?username=damian-mostert&theme=onedark&rank=-C,-B,UNKNOWN&title=-Reviews" alt="damian-mostert" /></a>
+
 ### 
 <img style="width:100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-mostert&show_icons=true&locale=en&layout=compact&theme=onedark" alt="damian-mostert" />
 
 ### 
 <img style="width:100%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damian-mostert&theme=onedark" alt="damian-mostert" />
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/damian-mostert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian-mostert" height="30" width="40" /></a>
-</p>
