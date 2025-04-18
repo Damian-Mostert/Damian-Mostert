@@ -11,8 +11,13 @@ email: root@admin.com
 <br/>
 password: 12345678
 #### React game (a experimental 2d game engine written for react)
+I have not completed all levels, please just select a character, then choose the "void" level.
+
 <a href="https://react-game-engine.vercel.app/">https://react-game-engine.vercel.app/</a>
 #### Web 3 slots (unstable but cool)
+
+Conected to the sepoliaEth network
+
 <a href="https://web3-slots.vercel.app/">https://web3-slots.vercel.app/</a>
  
 <div align="left">
