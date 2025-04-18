@@ -20,7 +20,7 @@ Conected to the sepoliaEth network
 
 <a href="https://web3-slots.vercel.app/">https://web3-slots.vercel.app/</a>
 
-## Stack
+## Tech Stack
 
 ### node
 <div align="center">
@@ -76,15 +76,32 @@ Conected to the sepoliaEth network
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+### web3
+
+ <div align="center">
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/42/1/ganache-logo-png_seeklogo-426724.png" height="40" alt="ganache logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" height="40" alt="blender logo"  />
+</div>
+
+### Database
+
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
 ### other
 
  <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
