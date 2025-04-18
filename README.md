@@ -36,7 +36,7 @@ Conected to the sepoliaEth network
 <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1598px-NestJS-logo-wordmark.svg.png?20241119221214" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" height="40" alt="express logo" />
@@ -46,12 +46,12 @@ Conected to the sepoliaEth network
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*6mf8tptIWbepPFZT07EDvQ.jpeg" height="40" alt="pug logo"  />
    <img width="12" />
   <img src="https://alpinejs.dev/alpine_long.svg" height="40" alt="alpinejs logo" />
-  </div>
+</div>
 
 
   ### php
 
-  <div align="center">
+<div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -63,9 +63,8 @@ Conected to the sepoliaEth network
 
 ### react
  <div align="center">
-  </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
